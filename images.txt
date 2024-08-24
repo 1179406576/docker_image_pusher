@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-consul:1.9.5
+consul:1.9.7
 #openjdk:11
