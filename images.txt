@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #consul:1.9.7
-openjdk:8
+#openjdk:8
+gcr.io/k8s-minikube/kicbase:v0.0.44
