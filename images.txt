@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #consul:1.9.7
 #openjdk:8
-gcr.io/k8s-minikube/kicbase:v0.0.44
+#gcr.io/k8s-minikube/kicbase:v0.0.44
+jenkins/jenkins:2.462.1-lts-jdk17
