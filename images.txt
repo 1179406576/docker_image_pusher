@@ -8,4 +8,4 @@
 #openjdk:8
 #gcr.io/k8s-minikube/kicbase:v0.0.44
 #jenkins/jenkins:2.462.1-lts-jdk17
-mysql:8.0.36
+--platform=linux/arm64 openjdk:11-jdk-slim-buster
