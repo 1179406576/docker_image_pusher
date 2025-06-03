@@ -8,6 +8,7 @@
 #openjdk:8
 #gcr.io/k8s-minikube/kicbase:v0.0.44
 #jenkins/jenkins:2.462.1-lts-jdk17
-openjdk:11-jdk-slim-buster
+#openjdk:11-jdk-slim-buster
 #gitlab/gitlab-ce:12.10.14-ce.0
 #node:20.15.0-bullseye
+tonistiigi/binfmt
