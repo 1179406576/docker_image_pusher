@@ -11,4 +11,5 @@
 #openjdk:11-jdk-slim-buster
 #gitlab/gitlab-ce:12.10.14-ce.0
 #node:20.15.0-bullseye
-tonistiigi/binfmt
+#tonistiigi/binfmt
+osixia/openldap:latest
