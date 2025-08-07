@@ -12,4 +12,5 @@
 #gitlab/gitlab-ce:12.10.14-ce.0
 #node:20.15.0-bullseye
 #tonistiigi/binfmt
-osixia/openldap:latest
+#osixia/openldap:latest
+tongweb/tongtech:7.0.c2_p6_kylin_10_sp2_base
