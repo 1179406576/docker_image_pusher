@@ -12,5 +12,4 @@
 #gitlab/gitlab-ce:12.10.14-ce.0
 #node:20.15.0-bullseye
 #tonistiigi/binfmt
-
 tongweb/tongtech:7.0.C.6_centos
