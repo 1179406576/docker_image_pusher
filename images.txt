@@ -13,4 +13,4 @@
 #node:20.15.0-bullseye
 #tonistiigi/binfmt
 
---platform=linux/arm64 tomcat:9.0.107-jdk8-temurin-noble
+--platform=linux/amd64 tomcat:9.0.107-jdk8-temurin-noble
