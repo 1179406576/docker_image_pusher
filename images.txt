@@ -13,5 +13,6 @@
 #node:20.15.0-bullseye
 #tonistiigi/binfmt
 #nginx:latest
-168369/ansible:v1
+#168369/ansible:v1
+maven:3.6.3-openjdk-8
 #--platform=linux/amd64 tomcat:9.0.107-jdk8-temurin-noble
