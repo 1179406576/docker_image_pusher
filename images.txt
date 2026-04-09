@@ -20,4 +20,4 @@
 #--platform=linux/amd64 tomcat:9.0.107-jdk8-temurin-noble
 #almalinux:8
 #node:14.6.0
-jenkins/jenkins:2.541.3-jdk17
+gitlab/gitlab-ce:17.3.0-ce.0
