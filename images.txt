@@ -22,4 +22,5 @@
 #node:14.6.0
 #gitlab/gitlab-ce:17.3.0-ce.0
 #--platform=linux/arm64 lin2ur/kt-connect-shadow:0.3.7
---platform=linux/arm64 dm8:latest
+#--platform=linux/arm64 dm8:latest
+onlyoffice/damengdb:8.1.3
